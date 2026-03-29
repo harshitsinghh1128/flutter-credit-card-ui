@@ -9,17 +9,7 @@ class Home extends StatelessWidget {
     return Scaffold(
       backgroundColor: AppColors.bgcolor,
       body: Center(
-        child: Container(
-          height: 250,
-          margin: EdgeInsets.all(15),
-          width: MediaQuery.of(context).size.width,
-decoration: BoxDecoration(boxShadow: AppColors.shadow),
-child: Content(
-  
-),
-
-
-        ),
+        child: Content(),
       ),
     );
   }
