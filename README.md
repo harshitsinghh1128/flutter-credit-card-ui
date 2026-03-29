@@ -1,17 +1,35 @@
-# flutter_practice
+💳 Flutter Credit Card UI
 
-A new Flutter project.
+A modern, animated credit card UI built using Flutter, featuring a smooth 3D flip interaction.
 
-## Getting Started
+✨ Features
+ •	Clean and minimal credit card design
+ •	3D flip animation (front ↔ back)
+ •	Custom UI using Stack & Positioned
+ •	Smooth user interaction
+ •	Responsive layout
 
-This project is a starting point for a Flutter application.
+📸 Preview
+<img width="459" height="964" alt="image" src="https://github.com/user-attachments/assets/98a0b47d-ba1e-4673-a046-bf848256a0c6" />
+<img width="474" height="943" alt="image" src="https://github.com/user-attachments/assets/8bab24d5-81c7-4050-95bd-9e43a00ec58d" />
 
-A few resources to get you started if this is your first Flutter project:
+🛠 Tech Stack
+	•	Flutter
+	•	Dart
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🧠 What I Learned
+	•	Managing UI layering with Stack & Positioned
+	•	Creating reusable animation components
+	•	Structuring Flutter UI for scalability
+
+
+👤 Author
+
+Harshit Singh
+:::
+  
+
+
+
+ 
